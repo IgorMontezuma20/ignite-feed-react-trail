@@ -63,7 +63,7 @@
 }
 
 .sidebar footer a:hover {
-  background: var(--green-500);
+  background: var(--green-300);
   transition: all 0.1s ease-in-out;
   color: var(--white);
 }
